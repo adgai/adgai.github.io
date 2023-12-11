@@ -1,0 +1,9 @@
+---
+layout: page
+tags: dialyrecord,neovim
+---
+# 1
+## 2
+![img.png](http://img.adgainai.com/2109251912121938-0-lp.jpg)
+
+![dsd](http://img.adgainai.com/images/20231209/80a5b5d0b81e4efd8aeeb9dfc41032a3.png?imageView2/0/interlace/1/q/50|imageslim)
